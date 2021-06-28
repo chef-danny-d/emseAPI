@@ -41,7 +41,7 @@
 		"babel-preset-stage-2": "^6.22.0",
 		"babel-register": "^6.22.0",
 		"kill-port": "^1.6.1",
-		"prettier": "^1.19.1",
+		"prettier": "^2.3.2",
 		"standard-version": "^8.0.1"
 	},
 	"browserslist": "> 0.25%, not dead"
