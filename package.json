@@ -16,7 +16,7 @@
 		"@babel/preset-env": "^7.9.6",
 		"@babel/register": "^7.11.5",
 		"@sendgrid/mail": "^7.1.0",
-		"aws-sdk": "^2.761.0",
+		"aws-sdk": "^2.947.0",
 		"bcryptjs": "^2.4.3",
 		"body-parser": "^1.19.0",
 		"cors": "^2.8.5",
